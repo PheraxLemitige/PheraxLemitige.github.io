@@ -1,6 +1,6 @@
 # Visualiser la Collection sur notre site
 
-Pour pouvoir visualiser la Collection d'un utilisateur ou même la votre permet de voir chaques boîtes qu'il possede.
+Pour pouvoir visualiser la Collection d'un utilisateur ou même la votre permet de voir chaques boîtes qu'il possede ou que vous possedez.
 
 ## Comment visualiser votre Collection ?
 
