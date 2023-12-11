@@ -28,5 +28,5 @@ L'ensemble des informations sont dans l'ensemble des pages concernant les cookie
     3. Vous renseigner dans la partie "Changer son mot de passe" dans ce guide d'utilisateur
 
 - Si vous avez un autre problème vous pouvez : 
-    1. Directement contacter l'administrateur e nappuyant sur le bouton "**Contact**" sur le menu en bas du site
+    1. Directement contacter l'administrateur en appuyant sur le bouton "**Contact**" sur le menu en bas du site
     2. Vous renseigner dans la partie "Contacter l'administrateur" dans ce guide d'utilisateur
