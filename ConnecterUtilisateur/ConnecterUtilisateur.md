@@ -6,14 +6,14 @@ Pour pouvoir accéder à l'ensemble des fonctionnalité de notre site il faut qu
 
 Pour pouvoir s'inscrire il faut se rendre dans le menu en haut à droite et appuyer sur le bouton "**Connexion**". 
 
-## Près requis avant votre inscription
+## Près requis avant votre connexion
 
 Pour pouvoir avoir accès à l'ensemble des fonctionnalités du site, vous êtes dans l'obligation d'accepter l'ensemble des cookies nécessaires.
 Si vous voulez plus d'information :
 - Vous pouvez vous rendre sur la page concernant les cookies
 - Vous pouvez vous rendre directement sur les explications de la bannière sur ce guide d'utilisateur
 
-## Que faut-il renseigner sur la page d'inscription ?
+## Que faut-il renseigner sur la page de connexion ?
 
 L'utilisateur doit renseigner quelques informations lorsqu'il veut s'inscrire sur notre site :
 - Vous devez renseigner votre pseudo, celui que vous avez choisi pour vous inscrire
