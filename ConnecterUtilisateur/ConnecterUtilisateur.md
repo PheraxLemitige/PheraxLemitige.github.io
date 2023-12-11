@@ -2,9 +2,9 @@
 
 Pour pouvoir accéder à l'ensemble des fonctionnalité de notre site il faut que vous vous inscrivez sur notre site mais si jamais vous avez déjà un compte, vous pouvez tout simplement vous connecter
 
-## Comment s'inscrire ?
+## Comment se connecter ?
 
-Pour pouvoir s'inscrire il faut se rendre dans le menu en haut à droite et appuyer sur le bouton "**Connexion**". 
+Pour pouvoir se connecter il faut se rendre dans le menu en haut à droite et appuyer sur le bouton "**Connexion**". 
 
 ## Près requis avant votre connexion
 
@@ -15,8 +15,8 @@ Si vous voulez plus d'information :
 
 ## Que faut-il renseigner sur la page de connexion ?
 
-L'utilisateur doit renseigner quelques informations lorsqu'il veut s'inscrire sur notre site :
-- Vous devez renseigner votre pseudo, celui que vous avez choisi pour vous inscrire
+L'utilisateur doit renseigner quelques informations lorsqu'il veut se connecter sur notre site :
+- Vous devez renseigner votre pseudo, celui que vous avez choisi pour vous connecter
 - Vous devez renseignez votre mot de passe d'une longueur dépassant 8 lettres/chiffres
 
 L'ensemble des informations sont dans l'ensemble des pages concernant les cookies et les politiques de confidentialités
