@@ -4,11 +4,13 @@ Une fois connecté, vous pouvez gérer votre collection en ajoutant des élémen
 
 ## Comment ajouter une boîte dans la Collection ?
 
-<img src="../../img/AjoutCollection1.png" alt="LogoCollego" width="300">
-Légende : Bouton permettant d'ajouter une collection sur la page d'une boîte
+<img src="../../img/AjoutCollection1.png" alt="AjoutCollection1" width="600px">
+<!-- ![Bouton permettant d'ajouter une collection sur la page d'une boîte](../../img/AjoutCollection1.png) -->
+- Légende : Bouton permettant d'ajouter une collection sur la page d'une boîte
 
-<img src="../../img/AjoutCollection2.png" alt="LogoCollego" width="300">
-Légende : Bouton permettant d'ajouter une collection sur la liste de recherche de boîte
+<img src="../../img/AjoutCollection2.png" alt="AjoutCollection2" width="600px">
+<!-- ![Bouton permettant d'ajouter une collection sur la liste de recherche de boîte](../../img/AjoutCollection2.png) -->
+- Légende : Bouton permettant d'ajouter une collection sur la liste de recherche de boîte
 
 Pour pouvoir ajouter une boîte dans la Collection, il faut se rendre dans **la page d'une boîte** que l'on veut ajouter ou sur la page **Recherche Boite** qui se trouve dans le menu gauche du site. Ensuite, il faut cliquer sur le bouton "**Ajouter dans la Collection**."
 

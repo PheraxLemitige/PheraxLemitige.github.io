@@ -1,4 +1,5 @@
 <img src="img/logo.png" alt="LogoCollego" width="100">
+<!-- ![Logo du site Collego](../img/logo.png) -->
 
 # Documentation Utilisateur Projet Collego 
 
