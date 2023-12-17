@@ -22,15 +22,15 @@ Bienvenue sur notre documentation utilisateur concernant le site web Collego. Ce
 
 - Visualiser - Mondifier du contenu : 
 
-#### - [RechercheBoite](pages/RechercheBoite/RechercheBoite.md)
+#### - [Rechercher une boîte de LEGO](pages/RechercheBoite/RechercheBoite.md)
 
-#### - [RechercheUtilisateur](pages/RechercheUtilisateur/RechercheUtilisateur.md)
+#### - [Rechercher un utilisateur du site](pages/RechercheUtilisateur/RechercheUtilisateur.md)
 
-#### - [VisualiserWishlist](pages/VisualiserWishlist/VisualiserWishlist.md)
+#### - [Visualiser une wishlist](pages/VisualiserWishlist/VisualiserWishlist.md)
 
-#### - [VisualiserCollection](pages/VisualiserCollection/VisualiserCollection.md)
+#### - [Visualiser une collection](pages/VisualiserCollection/VisualiserCollection.md)
 
-#### - [ModifierInformationProfil](pages/ModifierInformationProfil/ModifierInformationProfil.md)
+#### - [Modifier les informations de votre profil](pages/ModifierInformationProfil/ModifierInformationProfil.md)
 
 - Ajouter du contenu
 
@@ -45,3 +45,7 @@ Bienvenue sur notre documentation utilisateur concernant le site web Collego. Ce
 #### - [Contacter l'administrateur](pages/ContacterAdmin/ContacterAdmin.md)
 
 Cette documentation est réalisé par Ogès Florian et Lutic Enzo pour un TP en Qualité de developpement lors du BUT3 FI.
+
+
+
+Commande : pandoc -s README.md pages/AjoutCollection/AjoutCollection.md -o documentation_utilisateur.pdf
