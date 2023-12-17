@@ -1,4 +1,5 @@
-# Documentation Utilisateur Projet Collego ![Logo](img/logo.png){width=400px}
+# Documentation Utilisateur Projet Collego <img src="https://example.com/chatgpt.jpg" alt="ChatGPT" width="100">
+
 
 
 
