@@ -4,6 +4,18 @@ Une fois connecter, vous pouvez demander la modification d'une boîte ou l'ajout
 
 ## Comment ajouter une suggestion de boîte ?
 
+<img src="../../img/AjoutSuggestionBoite1.png" alt="AjoutSuggestionBoite1" width="800px">
+<!-- ![Boutton permettant de moodifier la boîte sur sa page](../../img/AjoutSuggestionBoite1.png) -->
+- Légende : Boutton permettant de moodifier la boîte sur sa page
+
+<img src="../../img/AjoutSuggestionBoite2.png" alt="AjoutSuggestionBoite2" width="800px">
+<!-- ![Bouton permettant d'ajouter une nouvelle boite dans la page de la recherche d'une boîte](../../img/AjoutSuggestionBoite2.png) -->
+- Légende : Bouton permettant d'ajouter une nouvelle boite dans la page de la recherche d'une boîte
+
+<img src="../../img/AjoutSuggestionBoite3.png" alt="AjoutSuggestionBoite3" width="800px">
+<!-- ![Formulaire permettant d'ajouter une boîte dans la liste des suggestions](../../img/AjoutSuggestionBoite3.png) -->
+- Légende : Formulaire permettant d'ajouter une boîte dans la liste des suggestions
+
 Pour pouvoir ajouter une suggestion de boîte, il faut se rendre dans **la page d'une boîte** que l'on veut modifier ou sur la page **Recherche Boite**. Et cliquez sur un lien appeler "**Boite pas présente ? Ajoute là !**"
 
 ## Près requis avant votre ajout de suggestion de boîte
@@ -13,6 +25,7 @@ Pour pouvoir avoir accès à la fonctionnalité d'ajout de suggestion de boîte,
 ## Que faut-il renseigner sur la page d'ajout d'une suggestion de boîte ?
 
 Vous devait renseigner quelques informations lorsque vous voulez ajouter ou modifier une boîte :
+
 - Vous devez renseigner le nom de boîte, celui-ci doit être une boîte valide.
 - Vous devez renseigner le numéro de la boîte, celui-ci doit être lié au nom de la boîte.
 - Vous devez renseigner l'univers de la boîte, celui-ci doit être un univers existant qui est bien celui de la boîte.
@@ -23,5 +36,6 @@ Vous devait renseigner quelques informations lorsque vous voulez ajouter ou modi
 ### Des problèmes ?
 
 - En cas de problème, vous pouvez :
+
 1. Directement contacter l'administrateur en appuyant sur le bouton "**Contact**" sur le menu en bas du site
 2. Vous renseignez dans la partie "Contacter l'administrateur" dans ce guide d'utilisateur.

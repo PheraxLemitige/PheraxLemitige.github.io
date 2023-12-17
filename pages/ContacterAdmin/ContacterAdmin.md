@@ -4,11 +4,16 @@ Pour pouvoir contacter l'administrateur sur notre site permet de régler les dif
 
 ## Comment Contacter l'administrateur ?
 
+<img src="../../img/ContacterAdmin.png" alt="ContacterAdmin" width="800px">
+<!-- ![Page permettant de se connecter sur notre site'](../../img/ContacterAdmin.png) -->
+- Légende : Page permettant de se connecter sur notre site'
+
 Pour pouvoir Contacter l'administrateur, il faut se rendre en bas de la page et appuyer sur le bouton "**Contactez nous**".
 
 ## Que faut-il renseigner sur la page de contact ?
 
 Vous devez renseigner quelques informations lorsque vous voulez nous contacter :
+
 - Vous devez renseigner votre adresse mail.
 - Vous devez renseigner le sujet du contact.
 - Vous devez renseigner votre message envers l'administrateur.
