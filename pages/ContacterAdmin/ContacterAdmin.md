@@ -4,7 +4,7 @@ Pour pouvoir contacter l'administrateur sur notre site permet de régler les dif
 
 ## Comment Contacter l'administrateur ?
 
-<img src="../../img/ContacterAdmin.png" alt="ContacterAdmin" width="800px">
+<img src="../../img/ContacterAdmin.png" alt="ContacterAdmin" width="1000px">
 <!-- ![Page permettant de se connecter sur notre site'](../../img/ContacterAdmin.png) -->
 - Légende : Page permettant de se connecter sur notre site'
 

@@ -8,7 +8,7 @@ Pour pouvoir visualiser votre collection, il faut se rendre dans le menu en haut
 
 ## Comment visualiser la Collection d'une autre personne ?
 
-<img src="../../img/VisualiserCollection.png" alt="VisualiserCollection" width="800px">
+<img src="../../img/VisualiserCollection.png" alt="VisualiserCollection" width="1000px">
 <!-- ![Page permettant de visualiser la collection d'un utilisateur](../../img/VisualiserCollection.png) -->
 - Légende : Page permettant de visualiser la collection d'un utilisateur
 

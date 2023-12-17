@@ -4,7 +4,7 @@ Pour pouvoir accéder aux différents tops présents sur le site, il faut aller 
 
 ## Comment visualiser les tops sur notre site ?
 
-<img src="../../img/VisualiserDesTops.png" alt="VisualiserDesTops" width="800px">
+<img src="../../img/VisualiserDesTops.png" alt="VisualiserDesTops" width="1000px">
 <!-- ![Page permettant de visualiser le classement des boîtes et des utilisateurs](../../img/VisualiserDesTops.png) -->
 - Légende : Page permettant de visualiser le classement des boîtes et des utilisateurs
 

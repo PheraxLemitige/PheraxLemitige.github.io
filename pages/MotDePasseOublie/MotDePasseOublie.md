@@ -4,15 +4,15 @@ Si jamais vous ne vous souvenez plus de votre mot de passe, vous pouvez le récu
 
 ## Comment récupérer son mot de passe ?
 
-<img src="../../img/MotDePasseOublie1.png" alt="MotDePasseOublie1" width="800px">
+<img src="../../img/MotDePasseOublie1.png" alt="MotDePasseOublie1" width="1000px">
 <!-- ![Page permettant de demander de changer son mot de passe](../../img/MotDePasseOublie1.png) -->
 - Légende : Page permettant de demander de changer son mot de passe
 
-<img src="../../img/MotDePasseOublie2.png" alt="MotDePasseOublie2" width="800px">
+<img src="../../img/MotDePasseOublie2.png" alt="MotDePasseOublie2" width="1000px">
 <!-- ![Page permettant de valider que nous avons reçu le mail avec un code](../../img/MotDePasseOublie2.png) -->
 - Légende : Page permettant de valider que nous avons reçu le mail avec un code
 
-<img src="../../img/MotDePasseOublie3.png" alt="MotDePasseOublie3" width="800px">
+<img src="../../img/MotDePasseOublie3.png" alt="MotDePasseOublie3" width="1000px">
 <!-- ![Page permettant de renseigner un nouveau mot de passe](../../img/MotDePasseOublie3.png) -->
 - Légende : Page permettant de renseigner un nouveau mot de passe
 

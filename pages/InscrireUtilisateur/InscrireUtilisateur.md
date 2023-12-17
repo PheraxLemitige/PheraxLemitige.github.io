@@ -4,11 +4,11 @@ Pour pouvoir accéder à l'ensemble des fonctionnalités de notre site, il faut 
 
 ## Comment s'inscrire ?
 
-<img src="../../img/InscrireUtilisateur1.png" alt="InscrireUtilisateur1" width="800px">
+<img src="../../img/InscrireUtilisateur1.png" alt="InscrireUtilisateur1" width="1000px">
 <!-- ![Page permettant de s'inscrire sur notre site'](../../img/InscrireUtilisateur1.png) -->
 - Légende : Page permettant de s'inscrire sur notre site'
 
-<img src="../../img/InscrireUtilisateur2.png" alt="InscrireUtilisateur2" width="800px">
+<img src="../../img/InscrireUtilisateur2.png" alt="InscrireUtilisateur2" width="1000px">
 <!-- ![Page permettant de valiser le code reçu par mail](../../img/InscrireUtilisateur2.png) -->
 - Légende : Page permettant de valiser le code reçu par mail
 

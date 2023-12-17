@@ -4,7 +4,7 @@ Pour pouvoir accéder à l'ensemble des fonctionnalités de notre site, il faut 
 
 ## Comment se connecter ?
 
-<img src="../../img/ConnecterUtilisateur.png" alt="ConnecterUtilisateur" width="800px">
+<img src="../../img/ConnecterUtilisateur.png" alt="ConnecterUtilisateur" width="1000px">
 <!-- ![Page permettant de se connecter sur notre site'](../../img/ConnecterUtilisateur.png) -->
 - Légende : Page permettant de se connecter sur notre site'
 

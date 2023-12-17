@@ -4,15 +4,15 @@ Une fois connecter, vous pouvez demander la modification d'une boîte ou l'ajout
 
 ## Comment ajouter une suggestion de boîte ?
 
-<img src="../../img/AjoutSuggestionBoite1.png" alt="AjoutSuggestionBoite1" width="800px">
+<img src="../../img/AjoutSuggestionBoite1.png" alt="AjoutSuggestionBoite1" width="1000px">
 <!-- ![Boutton permettant de moodifier la boîte sur sa page](../../img/AjoutSuggestionBoite1.png) -->
 - Légende : Boutton permettant de moodifier la boîte sur sa page
 
-<img src="../../img/AjoutSuggestionBoite2.png" alt="AjoutSuggestionBoite2" width="800px">
+<img src="../../img/AjoutSuggestionBoite2.png" alt="AjoutSuggestionBoite2" width="1000px">
 <!-- ![Bouton permettant d'ajouter une nouvelle boite dans la page de la recherche d'une boîte](../../img/AjoutSuggestionBoite2.png) -->
 - Légende : Bouton permettant d'ajouter une nouvelle boite dans la page de la recherche d'une boîte
 
-<img src="../../img/AjoutSuggestionBoite3.png" alt="AjoutSuggestionBoite3" width="800px">
+<img src="../../img/AjoutSuggestionBoite3.png" alt="AjoutSuggestionBoite3" width="1000px">
 <!-- ![Formulaire permettant d'ajouter une boîte dans la liste des suggestions](../../img/AjoutSuggestionBoite3.png) -->
 - Légende : Formulaire permettant d'ajouter une boîte dans la liste des suggestions
 

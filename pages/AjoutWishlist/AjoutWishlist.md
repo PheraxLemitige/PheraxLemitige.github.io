@@ -4,11 +4,11 @@ Une fois connecter, vous pouvez gérer votre Wishlist en ajoutant des éléments
 
 ## Comment ajouter une boîte dans la Wishlist ?
 
-<img src="../../img/AjoutWishlist1.png" alt="AjoutWishlist1" width="800px">
+<img src="../../img/AjoutWishlist1.png" alt="AjoutWishlist1" width="1000px">
 <!-- ![Boutton permettant d'ajouter une boîte sur ça wishlist dans la liste de recherche'](../../img/AjoutWishlist1.png) -->
 - Légende : Boutton permettant d'ajouter une boîte sur ça wishlist dans la liste de recherche'
 
-<img src="../../img/AjoutWishlist2.png" alt="AjoutWishlist2" width="800px">
+<img src="../../img/AjoutWishlist2.png" alt="AjoutWishlist2" width="1000px">
 <!-- ![Bouton permettant d'ajouter une boîte dans sa wishlist sur la page de la boîte](../../img/AjoutWishlist2.png) -->
 - Légende : Bouton permettant d'ajouter une boîte dans sa wishlist sur la page de la boîte
 

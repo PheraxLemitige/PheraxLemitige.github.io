@@ -4,7 +4,7 @@ Pour visualiser les différents utilisateurs qu'il y a sur le site, vous pouvez 
 
 ## Comment visualiser l'ensemble des utilisateurs ?
 
-<img src="../../img/RechercheUtilisateur.png" alt="RechercheUtilisateur" width="800px">
+<img src="../../img/RechercheUtilisateur.png" alt="RechercheUtilisateur" width="1000px">
 <!-- ![Page permettant de rechercher une boîte dans la liste de boîte](../../img/RechercheUtilisateur.png) -->
 - Légende : Page permettant de rechercher un utilisateur dans la liste des utilisateurs
 

@@ -4,7 +4,7 @@ Pour visualiser les différentes boîtes qu'il y a sur le site, vous pouvez acc�
 
 ## Comment visualiser l'ensemble des boîtes ?
 
-<img src="../../img/RechercheBoite.png" alt="RechercheBoite" width="800px">
+<img src="../../img/RechercheBoite.png" alt="RechercheBoite" width="1000px">
 <!-- ![Page permettant de rechercher une boîte dans la liste de boîte](../../img/RechercheBoite.png) -->
 - Légende : Page permettant de rechercher une boîte dans la liste de boîte
 

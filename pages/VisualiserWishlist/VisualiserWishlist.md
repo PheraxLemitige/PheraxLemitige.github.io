@@ -4,7 +4,7 @@ Pour pouvoir visualiser la Wishlist d'un utilisateur ou même la vôtre permet d
 
 ## Comment visualiser votre Wishlist ?
 
-<img src="../../img/VisualiserWishlist.png" alt="VisualiserWishlist" width="800px">
+<img src="../../img/VisualiserWishlist.png" alt="VisualiserWishlist" width="1000px">
 <!-- ![Page permettant de visualiser la wishlist d'un utilisateur](../../img/VisualiserWishlist.png) -->
 - Légende : Page permettant de visualiser la wishlist d'un utilisateur
 

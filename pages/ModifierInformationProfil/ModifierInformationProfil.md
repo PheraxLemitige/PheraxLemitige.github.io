@@ -4,7 +4,7 @@ Cette fonctionnalité permet de modifier les différentes informations de votre 
 
 ## Comment modifier les informations du profil ?
 
-<img src="../../img/ModifierInformationProfil.png" alt="ModifierInformationProfil" width="800px">
+<img src="../../img/ModifierInformationProfil.png" alt="ModifierInformationProfil" width="1000px">
 <!-- ![Page permettant de modifier vos informations utilisateur'](../../img/ModifierInformationProfil.png) -->
 - Légende : Page permettant de modifier vos informations utilisateur'
 
